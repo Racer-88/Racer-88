@@ -1,4 +1,4 @@
-### My Projects by Category
+# My Projects by Category
 
 ## Project Management
 <details>
