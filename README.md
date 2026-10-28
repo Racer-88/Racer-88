@@ -11,7 +11,7 @@ None are set as public at the moment. Check back again soon!
 <summary><b> Project List </b></summary>
 Amusement Park Predictive Ride Times App - https://github.com/Racer-88/Crowd-Simulation-and-Strategic-Routing-Engine
 
-![Machine Learning](https://shields.io)
+![Static Badge](https://img.shields.io/badge/:Data_Analytics)
 
 </details>
 
