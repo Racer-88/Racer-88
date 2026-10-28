@@ -1,6 +1,10 @@
 ### My Projects by Category
 
 ## Project Management
+<details>
+<summary><b> Project List </b></summary>
+None are set as public at the moment. Check back again soon!
+</details>
 
 ## Decision Sciences - https://github.com/stars/Racer-88/lists/decision-sciences
 <details>
@@ -9,3 +13,7 @@ Amusement Park Predictive Ride Times App - https://github.com/Racer-88/Crowd-Sim
 </details>
 
 ## Governance Awareness/Information Security Risk
+<details>
+<summary><b> Project List </b></summary>
+None are set as public at the moment. Check back again soon!
+</details>
