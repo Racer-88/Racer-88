@@ -10,8 +10,7 @@ None are set as public at the moment. Check back again soon!
 <details>
 <summary><b> Project List </b></summary>
 Amusement Park Predictive Ride Times App - https://github.com/Racer-88/Crowd-Simulation-and-Strategic-Routing-Engine
-![Machine Learning](https://img.shields.io/badge/Practices-Machine%20Learning-blue?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/Practices-Data%20Analysis-orange?style=flat-square)
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 </details>
 
 ## Governance Awareness/Information Security Risk - https://github.com/stars/Racer-88/lists/ga-isr
